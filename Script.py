@@ -1,5 +1,5 @@
 class script(object):
-    START_TXT = """Yo...Yo...ANURAG {} 💖
+    START_TXT = """Yo...Yo...Axad {} 💖
 I'm Powerful Auto-Filter Bot You Can Use Me As A Auto-filter in Your Group
 
 Its Easy To Use Me; Just Add Me To Your Group As Admin, 
@@ -8,9 +8,9 @@ Thats All, i will Provide Movies There...🤓🤪
 
 ⚠️More Help Check Help Button Below
 
-😎 Powered by @MOVIES_ZILAA
+😎 Powered by @movies94offical
 
-©️ Maintained By @GuruBhai11"""
+©️ Maintained By @AsadGhazanfar"""
     HELP_TXT = """
     🙋🏻‍♂️   Hellooo  {} 🤓
 
@@ -19,7 +19,7 @@ Thats All, i will Provide Movies There...🤓🤪
 ○  it's Note Complicated...🤓
 
 ○  Search using inline mode
-This methord works on any chat, Just type @Filters_Ro_Bot and then leave a space and search any movie you want...
+This methord works on any chat, Just type @movies94offical and then leave a space and search any movie you want...
 
 ○ Available Commands
      
@@ -34,11 +34,11 @@ This methord works on any chat, Just type @Filters_Ro_Bot and then leave a space
 
 ○Dont Spam Me...🤒
 
-😎 Powered by @MOVIES_ZILAA
+😎 Powered by @movies94offical
 
-©️ Maintained By @GuruBhai11"""
+©️ Maintained By @AsadGhazanfar"""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/Am_RoBots>ᴀᴍ_ᴛᴇᴄʜ</a>
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/AsadGhazanfar>Asad Ghazanfar</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
@@ -49,7 +49,7 @@ This methord works on any chat, Just type @Filters_Ro_Bot and then leave a space
 - Source - https://github.com/8769ANURAG/EvaMaria  
 
 <b>DEVS:</b>
-- <a href=https://t.me/Am_RoBots>ᴀᴍ_ᴛᴇᴄʜ</a>"""
+- <a href=https://t.me/AsadGhazanfar>Asad Ghazanfar</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
